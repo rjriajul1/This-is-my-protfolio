@@ -184,6 +184,70 @@ li a{
 /* about section style end here */
 
 
+/* exprience section start here */
+
+.experience{
+    max-width: 80%;
+    margin:  0 auto;
+   
+}
+.experience-content{
+    text-align: center;
+
+}
+
+.experience-title{
+
+    font-size: 2em;
+    font-weight: bold;
+
+
+}
+.experience-description{
+
+    font-size: 1em;
+    text-align: center;
+
+}
+
+.skills{
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.skill{
+    background-color: #f4f0f0aa;
+    box-shadow: 2px 4px 15px  #f4f0f0aa ;
+    max-width: 267px ;
+    max-height: 377px;
+    overflow: auto;
+    margin-top: 60px ;
+}
+
+.box{
+    padding: 35px;
+    
+}
+.box-title{
+    font-size: 1em;
+    font-weight: bold;
+    margin: 25px 0;
+
+}
+
+.box-description{
+    font-size: 1em;
+    text-align: left;
+
+    
+}
+
+
+
+
+/* exprience section end here */
+
+
  /* for small device  */
 
  @media screen and (max-width:576px) {
