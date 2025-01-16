@@ -142,7 +142,11 @@ li a{
     }
       .headr-container, .banner{
         margin: 0;
+        
        
+      }
+      .headr-container{
+            padding: 20px;
       }
       .banner-content{
        padding: 10px;
@@ -164,6 +168,9 @@ li a{
     .banner-profile{
         margin: 0 auto;
         width: 60%;
+    }
+    .headr-container{
+       width: 100%;
     }
  }
 
